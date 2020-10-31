@@ -1,0 +1,36 @@
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dungeonfalan.com" resolutions="1x" timestamp="1604164421326">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="4165339014" ref="index"/>
+    <file name="how-to-play.css" crc="480618208" ref="how-to-play"/>
+  </folder>
+  <folder name="fonts">
+    <file name="wendy.woff" crc="163784327"/>
+    <file name="wendy.eot" crc="53018220"/>
+    <file name="wendy.svg" crc="3785014640"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:how-to-play"/>
+    <file name="museutils.js" crc="3939489907" ref="index:how-to-play"/>
+    <file name="whatinput.js" crc="86476730" ref="index:how-to-play"/>
+    <file name="museconfig.js" crc="128606099" ref="index:how-to-play"/>
+    <file name="require.js" crc="4177726516" ref="index:how-to-play"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="index:how-to-play"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:how-to-play"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="df_bg.jpg" crc="4218442950" ref="index:how-to-play">
+      <caption webpage="index" alt=""/>
+      <caption webpage="how-to-play" alt=""/>
+    </file>
+    <file name="df_logo.png" crc="397704285" seo="true" ref="index:how-to-play">
+      <caption webpage="index" alt=""/>
+      <caption webpage="how-to-play" alt=""/>
+    </file>
+    <file name="appstore-u133.png" crc="308500334" ref="index"/>
+    <file name="happydoze_logo_quarter-u639.png" crc="3856635826" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3860926089" seo="true" mt="1604164409650" redirect="true"/>
+  <file name="how-to-play.html" crc="4139182830" seo="true" mt="1604163824570" redirect="true"/>
+</manifest>
